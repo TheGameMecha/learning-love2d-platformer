@@ -1,4 +1,5 @@
 # LOVE2D Platformer by Scott Melanson
 
-https://github.com/kikito/bump.lua
 
+## Libraries
+https://github.com/kikito/bump.lua
